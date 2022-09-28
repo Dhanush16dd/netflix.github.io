@@ -869,7 +869,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .bg-image{
-  background-image: url(/public/img/bg-image.jpg);
+  background-image: url(img/bg-image.jpg);
   background-position: center;
   box-shadow: inset 0px 0px 300px 109px rgba(0,0,0,1);
 }
